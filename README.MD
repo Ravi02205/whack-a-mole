@@ -12,3 +12,4 @@ Learn to make a simple grid-based game using HTML, CSS and JavaScript. The idea 
 - classList.add
 
 ...and much more.
+
